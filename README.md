@@ -137,3 +137,7 @@ node migrations/migrateJobStatus.js    # normalize legacy job statuses to "open"
 | Notifications | `/api/v1/notifications` |
 
 Real-time events are delivered over Socket.IO on the same port.
+
+## Project Improvements
+
+Maintained and updated the project documentation.
